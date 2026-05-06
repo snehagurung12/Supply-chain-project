@@ -337,7 +337,7 @@ All models trained and visualized in Google Colab.
 👩‍💻 Contributors
 | Name             | Role                          | Key Focus                      |
 | ---------------- | ----------------------------- | ------------------------------ |
-| **Sneha Gurung** | Azure Solution Architect Lead | Architecture • ML • Power BI   |
+| **Sneha Gurung** | Cloud Support Engineer Lead | Architecture • ML • Power BI   |
 | **Srishti Poudel** | Data Analyst                  | Cleaning • EDA • Visualization |
 
 
