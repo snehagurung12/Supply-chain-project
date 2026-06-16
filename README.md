@@ -337,8 +337,8 @@ All models trained and visualized in Google Colab.
 👩‍💻 Contributors
 | Name             | Role                          | Key Focus                      |
 | ---------------- | ----------------------------- | ------------------------------ |
-| **Sneha Gurung** | Data Analyst & Project Lead | Architecture • ML • Power BI   |
-| **Srishti Poudel** | Data Analyst                  | Cleaning • EDA • Visualization |
+| **Sneha Gurung** | Data Analyst & Project Lead   | Architecture • ML • Power BI   |
+|**Srishti Poudel**| Data Analyst                  | Cleaning • EDA • Visualization |
 
 
 🚀 Quick Start (Free Version)
